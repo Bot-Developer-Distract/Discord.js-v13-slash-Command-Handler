@@ -12,7 +12,7 @@
 ---------
 # Discord.js v13 Handler Template
 
-**I suggest downloading the template handler in the [Release](https://github.com/benzmeister/Discord.js-V13-SlashCommand-Handler/releases/tag/v1.0.2) column to avoid errors.**
+**I suggest downloading the template handler in the [Release](https://github.com/benzmeister/Discord.js-v13-slash-Command-Handler/releases/tag/v1.0.5) column to avoid errors.**
 
 ---------
 ## ⚙️ Configuration
