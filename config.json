@@ -1,0 +1,37 @@
+{
+  "env": {
+    "TOKEN": "TOKEN_HERE",
+    "prefix": "//",
+    "activity": "Supreme Development",
+    "status": "online",
+    "about": "[ MODERATION, MUSIC, All-IN-ONE, OTC ]"
+  },
+
+  "mongoDB": {
+    "mongoURL": "YOUR_MONGODB_HERE"
+  },
+
+  "client_owners": ["YOUR_ID_HERE"],
+
+  "emoji": {
+    "wrong": "<:zen_wrong:1006769964088311888>",
+    "right": "<:zen_check:1006769471555371128>",
+    "loading": "<a:zen_loading2:996274739930742885>",
+    "connected": "<:zen_greend:1006770445426622515>"
+  },
+
+  "color": {
+    "main": "WHITE",
+    "error": "RED",
+    "success": "GREEN",
+
+    "red": "#ff5a48",
+    "orange": "#ffca4d",
+    "yellow": "#ffcc5c",
+    "green": "#74ff89",
+    "purple": "#7d5eff",
+    "pink": "#ff88d2",
+    "grey": "#4b4b4b",
+    "white": "#ffffff"
+  }
+}
